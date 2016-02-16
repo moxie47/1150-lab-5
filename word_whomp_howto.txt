@@ -1,0 +1,6 @@
+1.  Run the program
+2.  Enter all starting Word Whomp letters on one line (one after another with no spaces or other characters in between them)
+3.  Press Enter
+4.  Wait.  The program takes about 15-20 seconds to run.
+5.  Type all words that the program produces into the Word Whomp game
+6.  You win!
